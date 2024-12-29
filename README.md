@@ -4,7 +4,7 @@
 ![Forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce)  
 
 ## 🔗 View  
-- **Website**: [Aksht Art Website](https://akshatart.netlify.app/)  
+- **Website**: https://akshatart.netlify.app/  
 
 ## Overview
 Aksht Art Website is a platform dedicated to showcasing and selling exquisite artworks. This project demonstrates a user-friendly e-commerce platform designed to provide an elegant browsing and shopping experience for art enthusiasts.
