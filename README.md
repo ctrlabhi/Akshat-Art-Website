@@ -1,6 +1,5 @@
 # Aksht Art Website
 
-![License](https://img.shields.io/github/license/ctrlabhi/E-commerce)  
 ![Stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce)  
 ![Forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce)  
 
