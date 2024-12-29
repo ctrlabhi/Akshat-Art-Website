@@ -1,4 +1,4 @@
-# Aksht Art Website
+# Akshat Art Website
 
 ![Stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce)  
 ![Forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce)  
@@ -7,7 +7,7 @@
 - **Website**: https://akshatart.netlify.app/  
 
 ## Overview
-Aksht Art Website is a platform dedicated to showcasing and selling exquisite artworks. This project demonstrates a user-friendly e-commerce platform designed to provide an elegant browsing and shopping experience for art enthusiasts.
+Akshat Art Website is a platform dedicated to showcasing and selling exquisite artworks. This project demonstrates a user-friendly e-commerce platform designed to provide an elegant browsing and shopping experience for art enthusiasts.
 
 ## Features
 - **Home Page**: Highlights featured artworks and collections.
@@ -51,7 +51,7 @@ Project Root/
    ```
 2. Open the project directory:
    ```bash
-   cd aksht-art-website
+   cd Akshat-art-website
    ```
 3. Open `index.html` in your preferred browser to view the website.
 
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - Developed by [Abhishek Kumar](https://www.linkedin.com/in/ctrlabhi/)
 
 ---
-Thank you for visiting Aksht Art Website! Enjoy exploring our collection.
+Thank you for visiting Akshat Art Website! Enjoy exploring our collection.
