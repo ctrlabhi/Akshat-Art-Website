@@ -1,7 +1,11 @@
-# Akshat Art Website
+<div align="center">
 
-![Stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce)  
-![Forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ctrlabhi/Akshat-Art-Website)
+  ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/Akshat-Art-Website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/Akshat-Art-Website?style=social)
+<hr>
+  <h1 align="center">Akshat Art Website</h1>
+</div>
 
 ## 🔗 View  
 - **Website**: https://akshatart.netlify.app/  
