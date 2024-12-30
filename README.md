@@ -68,21 +68,18 @@
 
 
 ## 🔗 View  
-- **Website**: https://akshatart.netlify.app/  
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+- **Website**: https://akshatart.netlify.app/
+  
 ## Overview
 Akshat Art Website is a platform dedicated to showcasing and selling exquisite artworks. This project demonstrates a user-friendly e-commerce platform designed to provide an elegant browsing and shopping experience for art enthusiasts.
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## Features
 - **Home Page**: Highlights featured artworks and collections.
 - **Product Page**: Displays individual art pieces with details such as price, description, and availability.
 - **Shopping Cart**: Allows users to view and manage their selected artworks.
 - **Feedback Page**: Collects feedback from users for improvements.
 - **Form Validation**: Ensures data integrity in forms (e.g., checkout or feedback forms).
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## Folder Structure
 ```
 Project Root/
@@ -105,14 +102,13 @@ Project Root/
 ├── index.html
 ├── product.html
 ```
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## Technologies Used
 - **HTML5**: For structuring content.
 - **CSS3**: For styling and responsive design.
 - **JavaScript**: For interactivity and form validation.
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## How to Run the Project
 1. Clone the repository:
    ```bash
@@ -123,8 +119,7 @@ Project Root/
    cd Akshat-art-website
    ```
 3. Open `index.html` in your preferred browser to view the website.
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository.
@@ -143,6 +138,7 @@ Contributions are welcome! Follow these steps:
 5. Create a pull request.
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
