@@ -40,21 +40,6 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### This project is now OFFICIALLY accepted for
-<table>
-
-   <tr>
-      <th>Event Logo</th>
-      <th>Event Name</th>
-      <th>Event Description</th>
-   </tr>
-   <tr>
-      <td><img src="https://media.licdn.com/dms/image/sync/v2/D5627AQEXLh_hox0WVA/articleshare-shrink_800/articleshare-shrink_800/0/1733835046597?e=2147483647&v=beta&t=B5u5MsnenvIMFcJ-KyOSokCalZwIwmO3MZTVSBZ5mz0" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
-      <td>Social Winter of Code</td>
-      <td>Social Winter of Code is a month-long program introducing students to open-source development through curated projects, mentorship, and workshops on tech topics like AI, Blockchain, and Web Development.</td>
-   </tr>
-</table>
-
 <br />
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
